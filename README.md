@@ -5,46 +5,32 @@ Awesome is a fully customizable responsive under construction html page. The att
 
 <a href="http://www.sujeetkrsingh.com/demo/templates/awesome"><strong>DEMO</strong></a>
 
-<strong>Following are the customization steps of this template:-</strong>
+## Following are the customization steps of this template:-
 
 1. Change the company Logo
-	
-	a. Replace the img/logo.png file with your logo file with appropriate size.
+	- Replace the img/logo.png file with your logo file with appropriate size.
 
 2. Change tag line 'Under Construction Landing Page'
-	
-	a. Open index.html file in an appropriate thats shows line number.
-	
-	b. Goto line number 144 and change the text between "span" tag.
+	- Open index.html file in an appropriate thats shows line number.
+	- Goto line number 144 and change the text between "span" tag.
 	
 3. Change the launch message i.e. 'WE ARE CURRENTLY...'
-	
-	a. Open index.html file in an appropriate thats shows line number.
-	
-	b. Goto line number 152.
+	- Open index.html file in an appropriate thats shows line number.
+	- Goto line number 152.
 	
 4. Change the launch date
-	
-	a. Open index.html file in an appropriate thats shows line number.
-	
-	b. Goto line number 127
-	
-	c. Change the value of variable 'finaldate'. Please enter the date in format of 'YYYY/MM/DD'.
+	- Open index.html file in an appropriate thats shows line number.
+	- Goto line number 127
+	- Change the value of variable 'finaldate'. Please enter the date in format of 'YYYY/MM/DD'.
 	
 5. Change the copyright content 
-	
-	a. Open index.html file in an appropriate thats shows line number.
-	
-	b. Goto line number 167.
-	
-	c. Replace the actual url with "#"
+	- Open index.html file in an appropriate thats shows line number.
+	- Goto line number 167.
+	- Replace the actual url with "#"
 	
 6. Change the social link
-	
-	a. Open index.html file in an appropriate thats shows line number.
-	
-	b. Goto line number 171.
-	
-	c. Add the social link at appropriate place. i.e. for facebook replace the "#" with the actual url at line number 171
+	- Open index.html file in an appropriate thats shows line number.
+	- Goto line number 171.
+	- Add the social link at appropriate place. i.e. for facebook replace the "#" with the actual url at line number 171
 
 <strong>Enjoy this Wonderful theme :)</strong>
