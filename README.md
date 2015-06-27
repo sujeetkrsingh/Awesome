@@ -1,8 +1,9 @@
 # Awesome
 Awesome Responsive Under Construction HTML+CSS+PHP Template
 
-Thank you for downloading Awesome Under Constructon Landing Theme.
-Following are the instructions to configure the theme.
+Awesome is a fully customizable responsive under construction html page. The attachment have a Readme file that contains all information about the editing the main coming soon page along with the line number.Following are the instructions to configure the theme.
+
+Following are the customization steps of this template:-
 
 1. Change the company Logo
 	a. Replace the img/logo.png file with your logo file with appropriate size.
