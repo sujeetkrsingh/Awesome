@@ -5,6 +5,6 @@ $_emailMessage="Thank you for subscription, we'll keep you updating whenever we 
 $_emailFooter="Regards";
 $_emailSubject="Thank you for subscription!";
 $_fromName="Awesome Team";
-$_fromEmail="demo@gotechy.in";
+$_fromEmail="contact@sujeetkrsingh.com";
 $_toEmail="sujeet.kumar.000@gmail.com";
-$footerMessage="Note:-This is a demo message generated from <a href='http://www.gotechy.in'>http://www.gotechy.in</a><br>Please ignore if it reached you unintentially";
+$footerMessage="Note:-This is a demo message generated from <a href='http://www.sujeetkrsingh.com'>http://www.sujeetkrsingh.com</a><br>Please ignore if it reached you unintentially";
