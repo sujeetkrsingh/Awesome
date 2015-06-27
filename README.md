@@ -2,7 +2,7 @@
 Awesome Responsive Under Construction HTML+CSS+PHP Template
 
 Awesome is a fully customizable responsive under construction html page. The attachment have a Readme file that contains all information about the editing the main coming soon page along with the line number.Following are the instructions to configure the theme.
-
+<a href="http://www.sujeetkrsingh.com/demo/templates/awesome">Demo</a>
 Following are the customization steps of this template:-
 
 1. Change the company Logo
